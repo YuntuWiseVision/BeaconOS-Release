@@ -19,13 +19,13 @@ Download the newest BeaconOS IMG from Google Drive
 6. Compute resource allocation across different AI models can be dynamically adjusted based on actual demand to achieve expected performance
 
 ## Supported CHIPS
-| Vendor | CHIP MODULE |
-| --- | --- |
-| Intel | [11th Gen Core CPU with UHD and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |
-| Qualcomm | [Qualcomm® QRB5165 / Qualcomm® QCS8250](https://www.thundercomm.com/product/eb5-edge-ai-box/#specifications) |
-| Lynxi | [Lynxi® KA200](https://lynxi.com/lq2001/18.html) |
-| SOPHGO | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) |
-| Rockchip | [RK3588](https://www.rock-chips.com/a/cn/product/RK35xilie/2022/0926/1656.html) |
+| Vendor | MODULE | PRODUCTS |
+| --- | --- | --- |
+| Intel | [11th Gen Core CPU with UHD and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |  [Intel AIBox Reference Design](https://www.intel.cn/content/www/cn/zh/internet-of-things/ai-computing-box-reference-design-video.html)  |
+| Qualcomm | [Qualcomm® QRB5165 / Qualcomm® QCS8250](https://www.thundercomm.com/product/eb5-edge-ai-box/#specifications) | [EB5 Edge AI Station](https://www.thundercomm.com/product/eb5-edge-ai-box/)  |
+| Lynxi | [Lynxi® KA200](https://lynxi.com/lq2001/18.html) | [GrandTECH NE-V-600](https://www.edgevision.asia/#/device/details?pk_equipment_display=2b93fa1a-6c98-11ee-bb40-0242ac76006a)  |
+| SOPHGO | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) | [SE5](https://www.sophgo.com/product/introduce/se5.html)  |
+| Rockchip | [RK3588](https://www.rock-chips.com/a/cn/product/RK35xilie/2022/0926/1656.html) | [GrandTECH NE-V-600](https://www.edgevision.asia/#/device/details?pk_equipment_display=2b93fa1a-6c98-11ee-bb40-0242ac76006a)  |
 
 ## Release Note:
 ### 2023.11
