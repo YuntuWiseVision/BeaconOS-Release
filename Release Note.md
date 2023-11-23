@@ -1,5 +1,6 @@
 ## Release Note:
 ### 2023.11
+Rlease on 2023.11.16 with following major changes:
 1. New EasyMode interface 
 1. Front-end rendering of algorithm results
 1. Professional mode provides system firewall configuration
