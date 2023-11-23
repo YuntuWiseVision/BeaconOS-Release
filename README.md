@@ -4,14 +4,14 @@
 [**Twitter**](http://twitter.com/yuntuwisevision) | [**Facebook**](https://www.facebook.com/YTWiseVision/) | [**Discord**](https://discord.gg/XvTZQgYY) | [**LinkedIn**](https://cn.linkedin.com/company/ytwisevision)
 
 ## Introduction
-BeaconOS is a Linux kernel-based operating system focused on providing a unified AI model training and inference runtime environment for edge devices and servers. Its open-source architecture and flexible design allow users to customize and extend it to fit their needs. As a brand new operating system, BeaconOS offers an efficient, secure, and stable runtime while providing many advanced features and tools, including an optimized kernel, multi-task manager, virtual desktops, file explorer, and various common applications. Whether for daily use or professional development, BeaconOS is able to provide users with an efficient, enjoyable experience and excellent performance.
+BeaconOS is a Linux kernel-based operating system focused on providing a unified AI model training and inference runtime environment for edge devices and servers. Its open-source architecture and flexible design allow users to customize and extend it to fit their needs. As a brand new operating system, BeaconOS offers an efficient, secure, and stable runtime while providing many advanced features and tools, including an optimized kernel, multi-task manager, file explorer, and various common applications. Whether for daily use or professional development, BeaconOS is able to provide users with an efficient, enjoyable experience and excellent performance.
 
 ## Download
 Download the newest BeaconOS IMG from Google Drive
 [**Download Here**](https://drive.google.com/drive/folders/1-06uuwvtTiPC9eH4FoVz26fknRdzZcFx?usp=sharing)
 
 ## Installation
-You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardware.
+You have to use [**Clonezilla**](https://clonezilla.org) to restore the image to hardware.
 
 ## Infrastructure
 ![架构图](https://github.com/YuntuWiseVision/BeaconOS-Release/assets/148029179/534ee924-7032-4511-89b7-c833513459e0)

@@ -1,6 +1,6 @@
 ## Release Note:
 ### 2023.11
-Rlease on 2023.11.16 with following major changes:
+**Rlease on 2023.11.16 with following major changes:**
 1. New EasyMode interface 
 1. Front-end rendering of algorithm results
 1. Professional mode provides system firewall configuration
@@ -8,6 +8,7 @@ Rlease on 2023.11.16 with following major changes:
 1. Supports SOPHGO 1684x and 1684 chips
 
 ### 2023.10
+**Release on 2023.10.12 with following major changes:**
 1. Supports Qualcomm, Lynxi, ROCKCHIP, Intel x86 Gen11/12/13 chips
 1. Added a new algorithm inference service - ModelFlow
 1. Added model repository management
