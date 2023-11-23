@@ -30,26 +30,5 @@ You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardw
 | SOPHGO | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) | [SE5](https://www.sophgo.com/product/introduce/se5.html)  |
 | Rockchip | [RK3588](https://www.rock-chips.com/a/cn/product/RK35xilie/2022/0926/1656.html) | [GrandTECH NE-V-600](https://www.edgevision.asia/#/device/details?pk_equipment_display=2b93fa1a-6c98-11ee-bb40-0242ac76006a)  |
 
-## Release Note:
-### 2023.11
-1. New EasyMode interface 
-1. Front-end rendering of algorithm results
-1. Professional mode provides system firewall configuration
-1. Docker configuration optimized
-1. Supports SOPHGO 1684x and 1684 chips
 
-### 2023.10
-1. Supports Qualcomm, Lynxi, ROCKCHIP, Intel x86 Gen11/12/13 chips
-1. Added a new algorithm inference service - ModelFlow
-1. Added model repository management
-1. More granular algorithm start/stop control logic, unified interaction between Professional Mode and EasyMode
-1. Improved front-end and back-end token verification mechanism
-1. Logo can be configured
-1. Fixed system service memory issues
-1. Fixed several EasyMode issues
-1. Added waiting state display for EasyMode long operations
-1. Added video source addition for EasyMode unlogged-in users
-1. Added full screen button in EasyMode
-1. Unfriendly error reporting in BeaconOS 3.1.1
-1. Globally fixed display of internet connection status
-1. Logs for BeaconOS Professional Edition
+## 
