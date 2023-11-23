@@ -1,5 +1,8 @@
 # BeaconOS-Release
 
+## Follow Us
+[**Twitter**](http://twitter.com/yuntuwisevision) | [**Facebook**](https://www.facebook.com/YTWiseVision/) | [**Discord**](https://discord.gg/XvTZQgYY) | [**LinkedIn**](https://www.linkedin.com/posts/ytwisevision_yurimeng-posts-a-new-message-x86通用镜像v330-activity-7120585233346797568-F2lU)
+
 ## Introduction
 BeaconOS is a Linux kernel-based operating system focused on providing a unified AI model training and inference runtime environment for edge devices and servers. Its open-source architecture and flexible design allow users to customize and extend it to fit their needs. As a brand new operating system, BeaconOS offers an efficient, secure, and stable runtime while providing many advanced features and tools, including an optimized kernel, multi-task manager, virtual desktops, file explorer, and various common applications. Whether for daily use or professional development, BeaconOS is able to provide users with an efficient, enjoyable experience and excellent performance.
 
