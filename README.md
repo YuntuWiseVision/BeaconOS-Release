@@ -35,3 +35,6 @@ You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardw
 
 ## RELEASE HISTORY
 [RELEASE NOTE](https://github.com/YuntuWiseVision/BeaconOS-Release/blob/0e5904a0dcb3d2351627cb0d8dff1cf860a48d25/Release%20Note.md)
+
+## Follow Us
+[Twitter](http://twitter.com/yuntuwisevision) | [Facebook](https://www.facebook.com/YTWiseVision/) | [Discord](https://discord.gg/XvTZQgYY) | [LinkedIN](https://www.linkedin.com/posts/ytwisevision_yurimeng-posts-a-new-message-x86通用镜像v330-activity-7120585233346797568-F2lU)
