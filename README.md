@@ -18,7 +18,7 @@ Download the newest BeaconOS IMG from Google Drive
 5. Supports concurrent execution of multiple AI models, with different models able to concurrently leverage underlying compute resources  
 6. Compute resource allocation across different AI models can be dynamically adjusted based on actual demand to achieve expected performance
 
-## Supported CHIPS
+## Supported Chips & Hardware
 | Vendor | MODULE | PRODUCTS |
 | --- | --- | --- |
 | Intel | [11th Gen Core CPU with UHD and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |  [Intel AIBox Reference Design](https://www.intel.cn/content/www/cn/zh/internet-of-things/ai-computing-box-reference-design-video.html)  |
