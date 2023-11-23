@@ -1,7 +1,7 @@
 # BeaconOS-Release
 
 ## Follow Us
-[**Twitter**](http://twitter.com/yuntuwisevision) | [**Facebook**](https://www.facebook.com/YTWiseVision/) | [**Discord**](https://discord.gg/XvTZQgYY) | [**LinkedIn**](https://www.linkedin.com/posts/ytwisevision_yurimeng-posts-a-new-message-x86通用镜像v330-activity-7120585233346797568-F2lU)
+[**Twitter**](http://twitter.com/yuntuwisevision) | [**Facebook**](https://www.facebook.com/YTWiseVision/) | [**Discord**](https://discord.gg/XvTZQgYY) | [**LinkedIn**](https://cn.linkedin.com/company/ytwisevision)
 
 ## Introduction
 BeaconOS is a Linux kernel-based operating system focused on providing a unified AI model training and inference runtime environment for edge devices and servers. Its open-source architecture and flexible design allow users to customize and extend it to fit their needs. As a brand new operating system, BeaconOS offers an efficient, secure, and stable runtime while providing many advanced features and tools, including an optimized kernel, multi-task manager, virtual desktops, file explorer, and various common applications. Whether for daily use or professional development, BeaconOS is able to provide users with an efficient, enjoyable experience and excellent performance.
@@ -30,7 +30,7 @@ You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardw
 | Intel® | [11th Gen Core CPU with UHD and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |  [Intel® AIBox Reference Design](https://www.intel.cn/content/www/cn/zh/internet-of-things/ai-computing-box-reference-design-video.html)  |
 | Qualcomm® | [Qualcomm® QRB5165 / Qualcomm® QCS8250](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/qrb5165-soc-product-brief_87-28730-1-b.pdf) | [ThunderComm EB5 Edge AI Station](https://www.thundercomm.com/product/eb5-edge-ai-box/)  |
 | Lynxi® | [Lynxi® KA200](https://lynxi.com/lq2001/18.html) | [GrandTECH NE-V-600](https://www.edgevision.asia/#/device/details?pk_equipment_display=2b93fa1a-6c98-11ee-bb40-0242ac76006a)  |
-| SOPHGO® | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) | [SE5](https://www.sophgo.com/product/introduce/se5.html)  |
+| SOPHGO® | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) | [SOPHGO SE5](https://www.sophgo.com/product/introduce/se5.html)  |
 | Rockchip® | [RK3588](https://www.rock-chips.com/a/cn/product/RK35xilie/2022/0926/1656.html) | [GrandTECH NE-V-600](https://www.edgevision.asia/#/device/details?pk_equipment_display=2b93fa1a-6c98-11ee-bb40-0242ac76006a)  |
 
 ## User Manuals
