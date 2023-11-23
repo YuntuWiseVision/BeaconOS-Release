@@ -25,7 +25,7 @@ You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardw
 6. Compute resource allocation across different AI models can be dynamically adjusted based on actual demand to achieve expected performance
 
 ## Supported Chips & Hardware
-| Vendor | MODULE | PRODUCTS |
+| VENDOR | CHIP MODULE | PRODUCTS |
 | --- | --- | --- |
 | Intel® | [11th Gen Core CPU with UHD and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |  [Intel® AIBox Reference Design](https://www.intel.cn/content/www/cn/zh/internet-of-things/ai-computing-box-reference-design-video.html) [CIS-RTLU-LW01](https://www.spestech.com/product/detail/post-44.html) [TINYGO Products](https://www.tinygo.com.cn/product?categoryNo=1129740108)|
 | Qualcomm® | [Qualcomm® QRB5165 / Qualcomm® QCS8250](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/qrb5165-soc-product-brief_87-28730-1-b.pdf) | [ThunderComm EB5 Edge AI Station](https://www.thundercomm.com/product/eb5-edge-ai-box/)  |
