@@ -36,7 +36,7 @@ Download the newest BeaconOS IMG from Google Drive
 1. Supports SOPHGO 1684x and 1684 chips
 
 ### 2023.10
-1. Supports Qualcomm, Lynxi, RK, Intel x86 Gen12/Gen13 chips
+1. Supports Qualcomm, Lynxi, ROCKCHIP, Intel x86 Gen11/12/13 chips
 1. Added a new algorithm inference service - ModelFlow
 1. Added model repository management
 1. More granular algorithm start/stop control logic, unified interaction between Professional Mode and EasyMode
