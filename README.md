@@ -12,18 +12,11 @@ Download the newest BeaconOS IMG from Google Drive
 
 ## Core Features
 1. Compatible with X86 & ARM architectures CPUs, can be deployed on x86 chip-based servers and ARM architecture-based edge devices  
-
 2. Compatible with mainstream AI accelerator devices and chipsets, such as AI accelerator cards and chips from NVIDIA, Intel, Qualcomm, etc., providing hardware support for model deployment
-
 3. Provides both local and cloud-based device management. Local management is suitable for edge computing scenarios, while cloud-based management can centrally manage large-scale devices
-
 4. AI models can be deployed on-demand through a simple graphical interface without any development work required, covering full process from deployment to usage
-
 5. Supports concurrent execution of multiple AI models, with different models able to concurrently leverage underlying compute resources  
-
 6. Compute resource allocation across different AI models can be dynamically adjusted based on actual demand to achieve expected performance
-
-Let me know if you need any clarification or have additional questions!
 
 ## Release Note:
 ### 2023.11
