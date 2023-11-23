@@ -28,7 +28,7 @@ You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardw
 | VENDOR | CHIP MODULE | PRODUCTS |
 | --- | --- | --- |
 | NVIDIA® | [ALL SERIES](http://www.Nvidia.com) |     |
-| Intel® | [11th Gen Core CPU with UHD and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |  [Intel® Based AI-Box](https://www.intel.cn/content/www/cn/zh/developer/articles/reference-implementation/edge-ai-box-for-video-analytics.html) [CIS-RTLU-LW01](https://www.spestech.com/product/detail/post-44.html) [TINYGO Products](https://www.tinygo.com.cn/product?categoryNo=1129740108)|
+| Intel® | [11th Gen CPU and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |  [Intel® Based AI-Box](https://www.intel.cn/content/www/cn/zh/developer/topic-technology/edge-5g/edge-solutions/hardware.html) [CIS-RTLU-LW01](https://www.spestech.com/product/detail/post-44.html) [TINYGO Products](https://www.tinygo.com.cn/product?categoryNo=1129740108)|
 | Qualcomm® | [Qualcomm® QRB5165](https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/qrb5165-soc-product-brief_87-28730-1-b.pdf) | [ThunderComm EB5 Edge AI Station](https://www.thundercomm.com/product/eb5-edge-ai-box/)  |
 | Lynxi® | [Lynxi® KA200](https://lynxi.com/lq2001/18.html) | [GrandTECH NE-V-600](https://www.edgevision.asia/#/device/details?pk_equipment_display=2b93fa1a-6c98-11ee-bb40-0242ac76006a)  |
 | SOPHGO® | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) | [SOPHGO SE5](https://www.sophgo.com/product/introduce/se5.html)  [EMA IVP03C](https://www.ema-tech.com/ProductDetail/9477810.html) |
