@@ -30,6 +30,8 @@ You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardw
 | SOPHGO | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) | [SE5](https://www.sophgo.com/product/introduce/se5.html)  |
 | Rockchip | [RK3588](https://www.rock-chips.com/a/cn/product/RK35xilie/2022/0926/1656.html) | [GrandTECH NE-V-600](https://www.edgevision.asia/#/device/details?pk_equipment_display=2b93fa1a-6c98-11ee-bb40-0242ac76006a)  |
 
+## User Manuals
+[User Manuals](https://github.com/YuntuWiseVision/BeaconOS-Release/blob/a3a9f5fa5967b7eedbb2b56d6f4f79f418aff852/USERMANUAL.MD)
 
 ## RELEASE HISTORY
 [RELEASE NOTE](https://github.com/YuntuWiseVision/BeaconOS-Release/blob/0e5904a0dcb3d2351627cb0d8dff1cf860a48d25/Release%20Note.md)
