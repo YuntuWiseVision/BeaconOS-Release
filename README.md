@@ -7,6 +7,9 @@ BeaconOS is a Linux kernel-based operating system focused on providing a unified
 Download the newest BeaconOS IMG from Google Drive
 [**Download Here**](https://drive.google.com/drive/folders/1-06uuwvtTiPC9eH4FoVz26fknRdzZcFx?usp=sharing)
 
+##Installation
+You have to use [Clonezilla](https://clonezilla.org) to restore the IMG to hardware.
+
 ## Infrastructure
 ![架构图](https://github.com/YuntuWiseVision/BeaconOS-Release/assets/148029179/534ee924-7032-4511-89b7-c833513459e0)
 
