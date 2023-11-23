@@ -18,17 +18,25 @@ Download the newest BeaconOS IMG from Google Drive
 5. Supports concurrent execution of multiple AI models, with different models able to concurrently leverage underlying compute resources  
 6. Compute resource allocation across different AI models can be dynamically adjusted based on actual demand to achieve expected performance
 
+## Supported CHIPS
+| Vendor | CHIP MODULE |
+| --- | --- |
+| Intel | [11th Gen Core CPU with UHD and later](https://www.intel.com/content/www/us/en/products/platforms/details/tiger-lake-up3.html) |
+| Qualcomm | [Qualcomm® QRB5165 / Qualcomm® QCS8250](https://www.thundercomm.com/product/eb5-edge-ai-box/#specifications) |
+| Lynxi | [Lynxi® KA200](https://lynxi.com/lq2001/18.html) |
+| SOPHGO | [BM1684](https://www.sophgo.com/product/introduce/bm1684.html) / [BM1684X](https://www.sophgo.com/product/introduce/bm1684x.html) |
+| Rockchip | [RK3588](https://www.rock-chips.com/a/cn/product/RK35xilie/2022/0926/1656.html) |
+
 ## Release Note:
 ### 2023.11
-1. New EasyMode version 
+1. New EasyMode interface 
 1. Front-end rendering of algorithm results
 1. Professional mode provides system firewall configuration
 1. Docker configuration optimized
-1. Shield OS activation related
 1. Supports SOPHGO 1684x and 1684 chips
 
 ### 2023.10
-1. Supports Qualcomm, Innosilicon, RK, Intel x86 Gen12/Gen13 chips
+1. Supports Qualcomm, Lynxi, RK, Intel x86 Gen12/Gen13 chips
 1. Added a new algorithm inference service - ModelFlow
 1. Added model repository management
 1. More granular algorithm start/stop control logic, unified interaction between Professional Mode and EasyMode
