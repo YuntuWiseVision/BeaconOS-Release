@@ -6,6 +6,8 @@
 ## Introduction
 BeaconOS is a Linux kernel-based operating system focused on providing a unified AI model training and inference runtime environment for edge devices and servers. Its open-source architecture and flexible design allow users to customize and extend it to fit their needs. As a brand new operating system, BeaconOS offers an efficient, secure, and stable runtime while providing many advanced features and tools, including an optimized kernel, multi-task manager, file explorer, and various common applications. Whether for daily use or professional development, BeaconOS is able to provide users with an efficient, enjoyable experience and excellent performance.
 
+BeaconOS greatly reduces the threshold for deploying machine learning algorithms. Users only need to browse the rich preset algorithms through the [Algorithm App Store](https://store.edgevision.asia) and download the required algorithm apps with one click. Without development, algorithms can be applied to actual business through simple and flexible graphical interface configuration to achieve rapid iteration. The Algorithm App Store provides high-quality algorithms such as image recognition, speech recognition, anomaly detection and more for various industries, empowering AI.
+
 ## Download
 Download the newest BeaconOS IMG from Google Drive
 [**Download Here**](https://drive.google.com/drive/folders/1-06uuwvtTiPC9eH4FoVz26fknRdzZcFx?usp=sharing)
