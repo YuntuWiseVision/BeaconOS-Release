@@ -1,0 +1,30 @@
+core_num = 30
+chip_num = 1
+phase_num = 609
+pause_phase = 609
+phase_loop = 1
+svn_ver = Lynabc_hw3_0877
+inputs = [(5,0), ]
+outputs = [(5,608), ]
+input_buf_addr = 0x8e8800080
+input_size = 1228800
+output_buf_addr = 0x8e8800000
+output_size = 4
+batch_size = 1
+base_addr = 0x8ee800080
+datachain_addr = 0x0
+run_mode = 2
+lookup_mbatch = 64
+perf_en = 0
+
+ddr_in_phase1 = -1
+ddr_in_addr1 = 0x8c0000000
+ddr_in_file1 = ../../../../../apu_x/looked_up_ddr_addr.bin
+ddr_in_len1 = 512
+
+ddr_out_phase1 = 608
+ddr_out_addr1 = 0x8ea800080
+ddr_out_file1 = output_ddr.dat
+ddr_out_len1 = 302400
+
+built_time = "2022/11/25 10:06:41"

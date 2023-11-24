@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/edgevision/AIbox/YuntuAIBox/bin
+nohup ./libyt_car_detection_yolov5_sdk_shell > /dev/null &

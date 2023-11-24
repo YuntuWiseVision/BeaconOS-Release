@@ -1,0 +1,62 @@
+{
+    "apu_x": {
+        "batch_size": 1,
+        "cmd_size": 512,
+        "image_size": 58457824,
+        "inputs": {
+            "datai0": {
+                "dtype": "uint8",
+                "name": "input",
+                "shape": "[1, 640, 640, 3]",
+                "shape_ex": [
+                    1,
+                    640,
+                    640,
+                    3
+                ],
+                "size": 1228800
+            }
+        },
+        "n_slice": 1,
+        "outputs": {
+            "datao0": {
+                "dtype": "float16",
+                "name": "output0",
+                "shape": "[1, 3, 6400, 6]",
+                "shape_ex": [
+                    1,
+                    3,
+                    6400,
+                    6
+                ],
+                "size": 115200
+            },
+            "datao1": {
+                "dtype": "float16",
+                "name": "output1",
+                "shape": "[1, 3, 1600, 6]",
+                "shape_ex": [
+                    1,
+                    3,
+                    1600,
+                    6
+                ],
+                "size": 28800
+            },
+            "datao2": {
+                "dtype": "float16",
+                "name": "output2",
+                "shape": "[1, 3, 400, 6]",
+                "shape_ex": [
+                    1,
+                    3,
+                    400,
+                    6
+                ],
+                "size": 7200
+            }
+        },
+        "sub_image_size": "[58457824]",
+        "sub_image_size_ex": 58457824
+    }
+}

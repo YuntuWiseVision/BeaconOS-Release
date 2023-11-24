@@ -1,0 +1,65 @@
+[
+    {
+        "param_name": "Confidence",
+        "display_name": "目标检测精准度阈值",
+        "param_value": 0.5,
+        "param_value_list": [],
+        "param_regex": "",
+        "param_type": "float",
+        "control_type": "text"
+    },
+	{
+        "param_name": "Draw_flags",
+        "display_name": "是否绘制对象框",
+        "param_value": true,
+        "param_value_list": [],
+        "param_regex": "",
+        "param_type": "boolean",
+        "control_type": "select"
+    },
+	{
+        "param_name": "draw_zone_flags",
+        "display_name": "是否绘制布控区域框",
+        "param_value": true,
+        "param_value_list": [],
+        "param_regex": "",
+        "param_type": "boolean",
+        "control_type": "select"
+    },
+	{
+        "param_name": "Detection_area",
+        "display_name": "停车检测线区域信息",
+        "param_value": "",
+        "param_value_list": [],
+        "param_regex": "",
+        "param_type": "area",
+        "control_type": "area"
+    },
+	{
+        "param_name": "Car_areas",
+        "display_name": "车位整体区域信息",
+        "param_value": "",
+        "param_value_list": [],
+        "param_regex": "",
+        "param_type": "area",
+        "control_type": "area"
+    },
+	{
+        "param_name": "Car_area",
+        "display_name": "具体车位区域信息",
+        "param_value": "",
+        "param_value_list": [],
+        "param_regex": "",
+        "param_type": "area",
+        "control_type": "area"
+    },
+    {
+        "param_name": "AIModelDescription",
+        "display_name": "AI模型描述",
+        "param_value": "{\"modle_lib\": \"libyt_car_detection_yolov5_sdk\", \"description\": \"高位占道停车检测\", \"info\": \"libyt_car_detection_yolov5_sdk.md\"}",
+        "param_value_list": [],
+        "param_regex": "hide",
+        "param_type": "string",
+        "control_type": "text"
+    }
+]
