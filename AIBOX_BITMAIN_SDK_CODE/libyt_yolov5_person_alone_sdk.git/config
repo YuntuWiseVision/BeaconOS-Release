@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /gitlab_backup/repositories/AIBOX_BITMAIN_SDK_CODE/libyt_yolov5_person_alone_sdk.bundle
+	fetch = +refs/*:refs/*
+	mirror = true
