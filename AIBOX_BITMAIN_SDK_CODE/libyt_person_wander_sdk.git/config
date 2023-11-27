@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = /gitlab_backup/repositories/AIBOX_BITMAIN_SDK_CODE/libyt_person_wander_sdk.bundle
-	fetch = +refs/*:refs/*
-	mirror = true
